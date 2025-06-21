@@ -1,4 +1,4 @@
-# Sentiment Analysis 
+# Tweetiment 
 
 This project is a web-based sentiment analysis tool developed using **FastAPI**, **JavaScript**, and **HTML/CSS**. It allows users to input multiple tweets (or text statements), and analyzes their sentiment using **VADER SentimentIntensityAnalyzer** from the NLTK library.
 
@@ -22,7 +22,7 @@ This project is a web-based sentiment analysis tool developed using **FastAPI**,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Utkarsh0723/Sentiment_Analysis.git
+   git clone https://github.com/Utkarsh0723/Tweetiment.git
    cd Sentiment_Analysis
    ```
 
